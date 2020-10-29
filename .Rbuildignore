@@ -11,3 +11,6 @@ index.Rmd
 logo.*
 pkgdown
 old
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
